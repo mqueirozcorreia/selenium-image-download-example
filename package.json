@@ -1,0 +1,31 @@
+{
+  "name": "selenium-image-download-example",
+  "version": "1.0.0",
+  "description": "exemplo de download de imagem utilizando o selenium webdriver (firefox e chrome)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqueirozcorreia/selenium-image-download-example.git"
+  },
+  "keywords": [
+    "seleniun",
+    "webdriver",
+    "geckodriver",
+    "chromedriver",
+    "image",
+    "download"
+  ],
+  "author": "Mateus Queiroz Correia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mqueirozcorreia/selenium-image-download-example/issues"
+  },
+  "homepage": "https://github.com/mqueirozcorreia/selenium-image-download-example#readme",
+  "dependencies": {
+    "chromedriver": "^2.32.3",
+    "selenium-webdriver": "^3.5.0"
+  }
+}
